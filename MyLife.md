@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... C++
 - 🤩 I’m looking to collaborate on ... None
 - 😄 Pronouns: ... He/Him
-  
+-     I live in Bali and still 14 yrs old 
 
 <!---
 NeizeoNNW/NeizeoNNW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
